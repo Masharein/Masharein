@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Medyanik</h1>
-<h3 align="center">Experienced Full-stack developer and licensed Doctor from Israel</h3>
+<h3 align="center">Full-stack developer and licensed Doctor from Israel</h3>
 
 - 📫 How to reach me **masharein04061995@gmail.com**
 
